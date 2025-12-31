@@ -1,2 +1,2 @@
 # digital-shelf
-online library management sytem
+online library management system
